@@ -1,0 +1,103 @@
+#circleContainer {
+  width: 100vw;
+  height: 20vh;
+  background-color: #000a19;
+}
+
+#circleCards {
+  display: block;
+  width: 70%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.circles {
+  width: 14%;
+  height: 100%;
+  border: 1px solid white;
+  border-radius: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.circles img {
+  width: 30px;
+  height: 30px;
+  filter: invert(100%);
+}
+
+#heart {
+  border-right: #dd4cac 2px solid;
+  border-bottom: #dd4cac 2px solid;
+  border-top: #dd4cac 2px solid;
+  /* transform: rotate(60deg); */
+}
+
+#heart img {
+  filter: invert(0%);
+}
+
+.zeroes {
+  font-size: 1.5rem;
+  margin: 0px;
+}
+
+.label {
+  margin: 0px;
+  font-size: 0.8rem;
+  letter-spacing: 0.03rem;
+  opacity: 0.7;
+}
+
+@media only screen and (max-width: 1025px) {
+  #circleCards {
+    width: 80%;
+  }
+
+  .circles {
+    width: 16%;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  #circleCards {
+    width: 80%;
+  }
+
+  .circles {
+    width: 22%;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  #circleContainer {
+    height: 13vh;
+  }
+
+  #circleCards {
+    width: 90%;
+  }
+
+  .circles {
+    width: 22%;
+  }
+
+  .circles img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .zeroes {
+    font-size: 1rem;
+  }
+
+  .label {
+    font-size: 0.6rem;
+  }
+}

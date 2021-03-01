@@ -1,0 +1,97 @@
+#body {
+  background-color: #000a19;
+  width: 100%;
+  /* height: 150vh; */
+  padding: 50px 0px;
+}
+
+#shows,
+#reviews {
+  color: whitesmoke;
+  width: 80%;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+}
+
+.bodyHeader {
+  width: 100%;
+  height: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.bodyHeader p {
+  font-family: "Nunito", sans-serif;
+  color: #e5c558;
+}
+
+.bodyHeader p:hover {
+  cursor: pointer;
+}
+
+.name h3 {
+  font-family: "Libre Baskerville", serif;
+}
+
+.underline {
+  width: 50px;
+  height: 5px;
+  border-radius: 5px;
+  background-color: #0259eb;
+}
+
+.oneOfTwelve {
+  font-family: "Nunito", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 8%;
+}
+
+#one,
+#arrows > p {
+  color: white;
+}
+
+#arrows {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 60%;
+}
+
+#of,
+#twelve {
+  color: rgb(155, 155, 155);
+}
+
+@media only screen and (max-width: 1025px) {
+  #shows,
+  #reviews {
+    color: whitesmoke;
+    width: 95%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .oneOfTwelve {
+    width: 15%;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .oneOfTwelve {
+    width: 25%;
+  }
+}
