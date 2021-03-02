@@ -36,7 +36,6 @@
   border-right: #dd4cac 2px solid;
   border-bottom: #dd4cac 2px solid;
   border-top: #dd4cac 2px solid;
-  /* transform: rotate(60deg); */
 }
 
 #heart img {
@@ -99,5 +98,11 @@
 
   .label {
     font-size: 0.6rem;
+  }
+}
+
+@media only screen and (max-width: 325px) {
+  #circleContainer {
+    height: 10vh;
   }
 }
