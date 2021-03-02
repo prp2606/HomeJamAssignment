@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HomeJamAssignment/static/css/main.cde30363.chunk.css",
-    "main.js": "/HomeJamAssignment/static/js/main.34b5a1cb.chunk.js",
-    "main.js.map": "/HomeJamAssignment/static/js/main.34b5a1cb.chunk.js.map",
+    "main.css": "/HomeJamAssignment/static/css/main.e316dfad.chunk.css",
+    "main.js": "/HomeJamAssignment/static/js/main.2f3bba41.chunk.js",
+    "main.js.map": "/HomeJamAssignment/static/js/main.2f3bba41.chunk.js.map",
     "runtime-main.js": "/HomeJamAssignment/static/js/runtime-main.90808b9f.js",
     "runtime-main.js.map": "/HomeJamAssignment/static/js/runtime-main.90808b9f.js.map",
     "static/js/2.e8dc622c.chunk.js": "/HomeJamAssignment/static/js/2.e8dc622c.chunk.js",
     "static/js/2.e8dc622c.chunk.js.map": "/HomeJamAssignment/static/js/2.e8dc622c.chunk.js.map",
     "index.html": "/HomeJamAssignment/index.html",
-    "static/css/main.cde30363.chunk.css.map": "/HomeJamAssignment/static/css/main.cde30363.chunk.css.map",
+    "static/css/main.e316dfad.chunk.css.map": "/HomeJamAssignment/static/css/main.e316dfad.chunk.css.map",
     "static/js/2.e8dc622c.chunk.js.LICENSE.txt": "/HomeJamAssignment/static/js/2.e8dc622c.chunk.js.LICENSE.txt",
     "static/media/hero.css": "/HomeJamAssignment/static/media/bgHome.c7247744.jpg",
     "static/media/celebrity.48c85840.jpg": "/HomeJamAssignment/static/media/celebrity.48c85840.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.90808b9f.js",
     "static/js/2.e8dc622c.chunk.js",
-    "static/css/main.cde30363.chunk.css",
-    "static/js/main.34b5a1cb.chunk.js"
+    "static/css/main.e316dfad.chunk.css",
+    "static/js/main.2f3bba41.chunk.js"
   ]
 }
