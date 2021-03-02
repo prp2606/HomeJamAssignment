@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/TechnobootAssignment/static/css/main.7ba8c167.chunk.css",
-    "main.js": "/TechnobootAssignment/static/js/main.6f9d7876.chunk.js",
-    "main.js.map": "/TechnobootAssignment/static/js/main.6f9d7876.chunk.js.map",
-    "runtime-main.js": "/TechnobootAssignment/static/js/runtime-main.7ba1f794.js",
-    "runtime-main.js.map": "/TechnobootAssignment/static/js/runtime-main.7ba1f794.js.map",
-    "static/js/2.612955ff.chunk.js": "/TechnobootAssignment/static/js/2.612955ff.chunk.js",
-    "static/js/2.612955ff.chunk.js.map": "/TechnobootAssignment/static/js/2.612955ff.chunk.js.map",
-    "index.html": "/TechnobootAssignment/index.html",
-    "static/css/main.7ba8c167.chunk.css.map": "/TechnobootAssignment/static/css/main.7ba8c167.chunk.css.map",
-    "static/js/2.612955ff.chunk.js.LICENSE.txt": "/TechnobootAssignment/static/js/2.612955ff.chunk.js.LICENSE.txt",
-    "static/media/bg1.19088f70.jpg": "/TechnobootAssignment/static/media/bg1.19088f70.jpg",
-    "static/media/page.css": "/TechnobootAssignment/static/media/bg2.779d8436.jpg"
+    "main.css": "/HomeJamAssignment/static/css/main.e316dfad.chunk.css",
+    "main.js": "/HomeJamAssignment/static/js/main.2f3bba41.chunk.js",
+    "main.js.map": "/HomeJamAssignment/static/js/main.2f3bba41.chunk.js.map",
+    "runtime-main.js": "/HomeJamAssignment/static/js/runtime-main.90808b9f.js",
+    "runtime-main.js.map": "/HomeJamAssignment/static/js/runtime-main.90808b9f.js.map",
+    "static/js/2.e8dc622c.chunk.js": "/HomeJamAssignment/static/js/2.e8dc622c.chunk.js",
+    "static/js/2.e8dc622c.chunk.js.map": "/HomeJamAssignment/static/js/2.e8dc622c.chunk.js.map",
+    "index.html": "/HomeJamAssignment/index.html",
+    "static/css/main.e316dfad.chunk.css.map": "/HomeJamAssignment/static/css/main.e316dfad.chunk.css.map",
+    "static/js/2.e8dc622c.chunk.js.LICENSE.txt": "/HomeJamAssignment/static/js/2.e8dc622c.chunk.js.LICENSE.txt",
+    "static/media/hero.css": "/HomeJamAssignment/static/media/bgHome.c7247744.jpg",
+    "static/media/celebrity.48c85840.jpg": "/HomeJamAssignment/static/media/celebrity.48c85840.jpg",
+    "static/media/search.3d039b88.png": "/HomeJamAssignment/static/media/search.3d039b88.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ba1f794.js",
-    "static/js/2.612955ff.chunk.js",
-    "static/css/main.7ba8c167.chunk.css",
-    "static/js/main.6f9d7876.chunk.js"
+    "static/js/runtime-main.90808b9f.js",
+    "static/js/2.e8dc622c.chunk.js",
+    "static/css/main.e316dfad.chunk.css",
+    "static/js/main.2f3bba41.chunk.js"
   ]
 }
